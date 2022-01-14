@@ -1,6 +1,14 @@
 body {
     background-color: hotpink;
 }
-h1 {
+/* h1 {
     color: blue;
+    text-decoration: line-through;
+} */
+.blue {
+    color: blue;
+    border-style: double;
+}
+.green {
+    color:green;
 }
